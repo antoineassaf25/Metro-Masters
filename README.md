@@ -1,7 +1,7 @@
 # GAME - Metro Masters
 ## by Antoine Assaf
 
-### Video of Gameplay/Insights (here)[]
+### Video of Gameplay/Insights (here)[https://youtu.be/--7Ok4512rU]
 
 ### How to Start
 run `__init__.py` (double click in files)
@@ -11,12 +11,13 @@ If images are not rendering, please refer to: (if accessible)
 - www.diderot.one/course/34/chapters/2846/#anchor-atom-202978
 - www.diderot.one/course/34/chapters/2846/#anchor-atom-202979
 
-If you do not have access to the course links above and the images are not rendering:
-  "please run the following three comands in your terminal:  
-  # pip install requests  
-  # pip install pillow  
-  # pip install image  
+If you do not have access to the course links above and the images are not rendering please run the following three comands in your terminal:  
+```
+  pip install requests  
+  pip install pillow  
+  pip install image  
   # If pip doesn't work, try pip3 instead of pip " - (www.diderot.one/course/34/chapters/2846/#anchor-atom-202979)
+```
 
 ### How to Wipe Data:
 - empty the three text files (HighScores.txt, Currency.txt, Upgrades.txt) 
