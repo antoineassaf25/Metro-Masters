@@ -1,5 +1,6 @@
-# GAME - Metro Masters
+# Metro Masters!
 ## by Antoine Assaf
+### Project written in Python
 
 ### Video of Gameplay/Insights [here](https://youtu.be/--7Ok4512rU)
 
