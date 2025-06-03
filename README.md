@@ -1,7 +1,7 @@
 # GAME - Metro Masters
 ## by Antoine Assaf
 
-### Video of Gameplay/Insights (here)[https://youtu.be/--7Ok4512rU]
+### Video of Gameplay/Insights [here](https://youtu.be/--7Ok4512rU)
 
 ### How to Start
 run `__init__.py` (double click in files)
